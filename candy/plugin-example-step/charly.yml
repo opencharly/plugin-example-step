@@ -1,7 +1,5 @@
-version: 2026.232.0520
 plugin-example-step:
     candy:
-        version: 2026.175.1200
         description: |-
             Reference OUT-OF-TREE charly plugin proving BOTH legs of plugin execution for
             a VERB-as-step — a standalone Go module (go.mod + main.go) serving the
